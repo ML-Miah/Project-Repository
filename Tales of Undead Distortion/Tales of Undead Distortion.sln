@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4BB3BD93-A40F-AEF3-9188-237BC7017D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharpMovementTest", "..\Assembly-CSharpMovementTest\Assembly-CSharpMovementTest.csproj", "{3954EC2C-BC2A-45D9-AA1C-AEB283E528F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharpTesting", "..\Assembly-CSharpTesting\Assembly-CSharpTesting.csproj", "{792D20D7-46C3-41E6-8F82-926C06B4E3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB3BD93-A40F-AEF3-9188-237BC7017D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB3BD93-A40F-AEF3-9188-237BC7017D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB3BD93-A40F-AEF3-9188-237BC7017D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB3BD93-A40F-AEF3-9188-237BC7017D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3954EC2C-BC2A-45D9-AA1C-AEB283E528F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954EC2C-BC2A-45D9-AA1C-AEB283E528F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954EC2C-BC2A-45D9-AA1C-AEB283E528F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954EC2C-BC2A-45D9-AA1C-AEB283E528F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792D20D7-46C3-41E6-8F82-926C06B4E3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792D20D7-46C3-41E6-8F82-926C06B4E3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792D20D7-46C3-41E6-8F82-926C06B4E3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792D20D7-46C3-41E6-8F82-926C06B4E3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

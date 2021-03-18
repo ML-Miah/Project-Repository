@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 435ca59221e5d2e4f96b5a1f8e554ee7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2240268794212560742
+    second: IMG_6741_0
+  - first:
+      213: 27024011146394333
+    second: IMG_6741_1
+  - first:
+      213: -5661050120367739954
+    second: IMG_6741_2
+  - first:
+      213: -5050807858139371152
+    second: Bat front
+  - first:
+      213: 659380724343880658
+    second: Bat pt 2
+  - first:
+      213: -4998454627122628541
+    second: Bat pt3
+  - first:
+      213: -1647812538971377220
+    second: Bat side
+  - first:
+      213: 2574346974424326222
+    second: Bat side pt2
+  - first:
+      213: -8564252330151483280
+    second: Bat Side pt3
+  - first:
+      213: -1989195647606381834
+    second: Bat back
+  - first:
+      213: -4430567472430897563
+    second: Bat back pt2
+  - first:
+      213: -1093901197284284859
+    second: Bat back pt3
+  - first:
+      213: -2610945261949764119
+    second: IMG_6741_12
+  - first:
+      213: -8373058495882827844
+    second: IMG_6741_13
+  - first:
+      213: 3690261626030035888
+    second: IMG_6741_14
+  - first:
+      213: -1905442929498611809
+    second: IMG_6741_15
+  - first:
+      213: 2785560358912531994
+    second: IMG_6741_16
+  - first:
+      213: -6970437870309671499
+    second: IMG_6741_17
+  - first:
+      213: -7051915759979198255
+    second: IMG_6741_18
+  - first:
+      213: -4090253376220507495
+    second: IMG_6741_19
+  - first:
+      213: 2390427408768959240
+    second: IMG_6741_20
+  - first:
+      213: -1021689432651965831
+    second: IMG_6741_21
+  - first:
+      213: 2946826290227261372
+    second: IMG_6741_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bat front
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 862
+        width: 417
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e9da630de7e9b0800000000000000
+      internalID: -5050807858139371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat pt 2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 857
+        width: 305
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb1467647962900800000000000000
+      internalID: 659380724343880658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat pt3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 866
+        width: 294
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b274effbe1aab0800000000000000
+      internalID: -4998454627122628541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat side
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 618
+        width: 349
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13d2ee93bc129e0800000000000000
+      internalID: -1647812538971377220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat side pt2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 614
+        width: 283
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e92b0feae9b320800000000000000
+      internalID: 2574346974424326222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat Side pt3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 623
+        width: 220
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078628e81e9a52980800000000000000
+      internalID: -8564252330151483280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat back
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 422
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22ba30915f464e0800000000000000
+      internalID: -1989195647606381834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat back pt2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 336
+        width: 291
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662b54ab567382c0800000000000000
+      internalID: -4430567472430897563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat back pt3
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 306
+        width: 291
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546ee7428aea1d0f0800000000000000
+      internalID: -1093901197284284859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

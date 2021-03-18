@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: eada34f667095ae458bb0591bba90f76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 316917999942649099
+    second: Item Pack 1_0
+  - first:
+      213: -4586807976794524917
+    second: Blood
+  - first:
+      213: 8447611676868021117
+    second: Item Pack 1_2
+  - first:
+      213: 3754402403073292782
+    second: Potion
+  - first:
+      213: -38915184163402099
+    second: Item Pack 1_4
+  - first:
+      213: -2708424054088419209
+    second: Item Pack 1_5
+  - first:
+      213: 8001598389313261532
+    second: Scissors
+  - first:
+      213: -7952433456603703464
+    second: Music Box
+  - first:
+      213: 527753108321319605
+    second: NewsPaper
+  - first:
+      213: -8670621058904166207
+    second: Lava Lamp
+  - first:
+      213: 1902664026137656021
+    second: Hour Glass
+  - first:
+      213: 9211886122135944546
+    second: Mega Potion
+  - first:
+      213: -5109250659283471213
+    second: Item Pack 1_12
+  - first:
+      213: -5689491911614809248
+    second: Decor
+  - first:
+      213: -1856898126667952439
+    second: Item Pack 1_14
+  - first:
+      213: 4162647591325249989
+    second: Pot
+  - first:
+      213: 8230054318598627275
+    second: Item Pack 1_16
+  - first:
+      213: -2563777366442422733
+    second: Item Pack 1_17
+  - first:
+      213: -5095679374570941784
+    second: Item Pack 1_18
+  - first:
+      213: -805508788227357098
+    second: Item Pack 1_19
+  - first:
+      213: -124303124336353138
+    second: Item Pack 1_20
+  - first:
+      213: 1248504575846611812
+    second: Item Pack 1_21
+  - first:
+      213: 2338246940149356784
+    second: Blue Fire 3
+  - first:
+      213: -7198771753112805314
+    second: Sofa (blue)
+  - first:
+      213: 7288793979558382059
+    second: Key
+  - first:
+      213: -5833460734204827767
+    second: Blue Fire 1
+  - first:
+      213: 358200368296666919
+    second: Item Pack 1_26
+  - first:
+      213: 1266038941585652202
+    second: Blue Fire 2
+  - first:
+      213: 754914658303209361
+    second: Item Pack 1_28
+  - first:
+      213: 3785395089317372720
+    second: Blue Fire 5
+  - first:
+      213: -782658984906964056
+    second: Blue Fire
+  - first:
+      213: 894113025253407078
+    second: Blue Fire 4
+  - first:
+      213: -6207090810193430025
+    second: Grass
+  - first:
+      213: -7472207716899926500
+    second: Orange Fire 1
+  - first:
+      213: -8644224144954854795
+    second: Orange Fire 2
+  - first:
+      213: -2572890640991904103
+    second: Orange Fire 3
+  - first:
+      213: -6196513668272767696
+    second: Item Pack 1_36
+  - first:
+      213: -3168737122288046296
+    second: Item Pack 1_37
+  - first:
+      213: -4622575357150599784
+    second: Orange Fire 5
+  - first:
+      213: 2685910758816634231
+    second: Sofa (red)
+  - first:
+      213: 939576208989822758
+    second: Item Pack 1_40
+  - first:
+      213: 997724032292758296
+    second: Orange Fire
+  - first:
+      213: 6275756706753081540
+    second: Orange Fire 4
+  - first:
+      213: -1973200475231364522
+    second: Item Pack 1_43
+  - first:
+      213: -4573370541084715743
+    second: Wooden Floor
+  - first:
+      213: -4433705407150542682
+    second: Wooden Floor 2
+  - first:
+      213: 7666191239022974107
+    second: Item Pack 1_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item Pack 1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 761
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054289ed3be56400800000000000000
+      internalID: 316917999942649099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 764
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fb3272726850c0800000000000000
+      internalID: -4586807976794524917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 754
+        width: 69
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b09201012fb3570800000000000000
+      internalID: 8447611676868021117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 764
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97e0b08115a1430800000000000000
+      internalID: 3754402403073292782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 764
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e429f98deb57ff0800000000000000
+      internalID: -38915184163402099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 766
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bfe23caeb96ad0800000000000000
+      internalID: -2708424054088419209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissors
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 761
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfca5e37536b0f60800000000000000
+      internalID: 8001598389313261532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Box
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 650
+        width: 134
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857543fa7e743a190800000000000000
+      internalID: -7952433456603703464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsPaper
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 727
+        width: 225
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab996e7a4f25700800000000000000
+      internalID: 527753108321319605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava Lamp
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 618
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fef9f514cba780800000000000000
+      internalID: -8670621058904166207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hour Glass
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 612
+        width: 68
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da79dcd9de976a10800000000000000
+      internalID: 1902664026137656021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Potion
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 628
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d73451f9137df70800000000000000
+      internalID: 9211886122135944546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 641
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947af8689b4819b0800000000000000
+      internalID: -5109250659283471213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 644
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bbdb7204dda01b0800000000000000
+      internalID: -5689491911614809248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 650
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4ed7fdf8fa36e0800000000000000
+      internalID: -1856898126667952439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pot
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 645
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b31efde1b4c930800000000000000
+      internalID: 4162647591325249989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire 3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 434
+        width: 48
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81fb8143f137020800000000000000
+      internalID: 2338246940149356784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa (blue)
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 423
+        width: 260
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3068943b33d81c90800000000000000
+      internalID: -7198771753112805314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 343
+        width: 89
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94598b18ff62560800000000000000
+      internalID: 7288793979558382059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire 1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 434
+        width: 52
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98728868e526b0fa0800000000000000
+      internalID: -5833460734204827767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire 2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 434
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93609a5bfd19110800000000000000
+      internalID: 1266038941585652202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire 5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 434
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033254127cc688430800000000000000
+      internalID: 3785395089317372720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 434
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34a58cccf6325f0800000000000000
+      internalID: -782658984906964056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Fire 4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 436
+        width: 49
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669774b2f07886c00800000000000000
+      internalID: 894113025253407078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 253
+        width: 186
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f934d17bcbfbd9a0800000000000000
+      internalID: -6207090810193430025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire 1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 268
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4f32cba26d4890800000000000000
+      internalID: -7472207716899926500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire 2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727c1170fb890880800000000000000
+      internalID: -8644224144954854795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire 3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 267
+        width: 49
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e10c108914b4cd0800000000000000
+      internalID: -2572890640991904103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire 5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 267
+        width: 49
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956091443059dfb0800000000000000
+      internalID: -4622575357150599784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sofa (red)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 186
+        width: 311
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7755aa5ca95464520800000000000000
+      internalID: 2685910758816634231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8132ea0a8b0a8dd00800000000000000
+      internalID: 997724032292758296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Fire 4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 269
+        width: 54
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0fac27977f71750800000000000000
+      internalID: 6275756706753081540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Pack 1_43
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad33b4f98cd94e0800000000000000
+      internalID: -1973200475231364522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Floor
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 25
+        width: 185
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d86049bf1880c0800000000000000
+      internalID: -4573370541084715743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Floor 2
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 26
+        width: 185
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a030184c605872c0800000000000000
+      internalID: -4433705407150542682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
